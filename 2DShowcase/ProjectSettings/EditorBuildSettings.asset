@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: d4e3d02d25e1f9d47b918f408d1ad227
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 93a9f450918991e49ac8e7829f01a028
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 0d140ce57295bb64290916b0938fe3bd
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6174f68732ba0f044a804b26d4767b10
+  - enabled: 1
+    path: Assets/Scenes/Volcano.unity
+    guid: 5753f375c92fa9d44b2fef4a0db3433e
+  m_configObjects: {}
